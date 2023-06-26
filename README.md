@@ -2,7 +2,7 @@
 [![](https://jitpack.io/v/jZAIKO/android-video-trimmer.svg)](https://jitpack.io/#jZAIKO/android-video-trimmer)
 [![](https://jitpack.io/v/a914-gowtham/android-video-trimmer.svg)](https://jitpack.io/#a914-gowtham/android-video-trimmer)
 
-## 📚 This library is not actively maintained. feel free to fork it
+## 📚 This library is not actively maintained. feel free to fork it. This library is forked from https://github.com/a914-gowtham/android-video-trimmer
 
 # Android-video-trimmer
 
@@ -16,7 +16,6 @@
 1. Include the library as local library project.
 
 + Add the dependency to your app `build.gradle` file
-+ Take a look at light weight version of this library [Android-video-trimmer-litr](https://github.com/a914-gowtham/android-video-trimmer-litr)
  ```gradle
  // replace x.y.z with latest available jitpack version
  dependencies {
@@ -153,6 +152,10 @@ TrimVideo.activity(videoUri)
   * Sample - Android Kitkat 4.4+ (API 19)
   
 ## ChangeLog
+### Version 1.7.12
+ * Changed function to handle new TIRIMASU permission changes
+### Version 1.7.11 
+ * Forked from https://github.com/a914-gowtham/android-video-trimmer
 ### Version 1.6.5
   * Video stretch issue 2 [#46](https://github.com/a914-gowtham/Android-video-trimmer/issues/46)
 ### Version 1.6.4
