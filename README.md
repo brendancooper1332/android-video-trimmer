@@ -8,7 +8,7 @@
 
 ##### Helps to trim local videos with many customizations on Android applications using exoplayer2 and FFmpeg [Demo app](https://play.google.com/store/apps/details?id=com.videotrimmer.videotrimmerdemo). 
 
-![](https://github.com/a914-gowtham/Android-video-trimmer/blob/master/demo.gif)
+![](https://github.com/brendancooper1332/Android-video-trimmer/blob/master/demo.gif)
 
 ## How to use
 *For a working implementation, please have a look at the Sample Project*
@@ -20,7 +20,7 @@
  ```gradle
  // replace x.y.z with latest available jitpack version
  dependencies {
-    implementation 'com.github.a914-gowtham:android-video-trimmer:x.y.z'
+    implementation 'com.github.brendancooper1332:android-video-trimmer:x.y.z'
  }
  ```
  + Add to project's root `build.gradle` file:
